@@ -1,0 +1,8 @@
+{
+  "id": "admin@gmail.com",
+  "email": "admin@gmail.com",
+  "passwordHash": "1234",
+  "role": "admin",
+  "permissions": ["access_admin_panel"],
+  "isActive": true
+}
