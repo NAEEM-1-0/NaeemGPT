@@ -1,9 +1,1 @@
-{
-  "id": "admin@gmail.com",
-  "email": "admin@gmail.com",
-  "passwordHash": "admin1234",
-  "role": "admin",
-  "permissions": ["access_admin_panel"],
-  "isActive": true,
-  "createdAt": "2026-02-12T00:00:00.000Z"
-}
+
